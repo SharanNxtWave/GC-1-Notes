@@ -1,0 +1,687 @@
+NXTWAVE 
+-------
+Growth cycle - 1
+------------------
+Projects champ Growth Cycle:
+----------------------------
+Week-1 (Learned topics and Key Points) :
+----------------------------------------
+
+
+
+
+CCBP 4.O Introduction Part:
+---------------------------
+
+Topic 1 - First Step to CCBP 4.O: 5 Videos 
+------------------------------------------
+
+Video - 1:Craft your success with CCBP 4.O
+------------------------------------------
+
+> Industry Ready Certificate 
+> Reversed Engineering Curriculum - Contemporary Knowledge ( Learning what Matters )
+                                    Application Skills ( Project Based )
+> Best Practice : Consistency and Practice.
+
+> Key Words : Consistency , Practice , Commitment , Learning
+
+> Industry Ready: Aptitude , Curated Interview Questions, Resume Building ,Mock Interviews , Communication Skills
+
+> Reach Growth Cycle 5 for Internships.
+
+=========================================================================================================
+
+Video - 2:Intro to OS and Internet 
+----------------------------------
+Observations: Intelligence 
+Identify Patterns and ask questions
+Curiosity is the basis of Human Intelligence
+
+Operating System - Boss of the Computer , Interface Between Software and Hardware.  Eg: Windows OS , Ubuntu.
+Internet - Like a Road; it is a Computer Network That interconnects billions of computers throughout the world.
+
+Clients and Servers : 
+Clients are ones that Requests 
+Servers are Ones that Responds to Requests
+
+Internet Browsers: 
+Chrome , Safari , Edge , etc.
+=========================================================================================================
+Video - 3:A Glimpse of Advance Technologies 
+-------------------------------------------
+Society 4.O to 5.O and Beyond 
+Lifestyle: Smart Homes
+Transportation: Autonomous Vehicles
+Virtual Shopping: Virtual Try On 
+Currency: Banking process will transform and notes will soon disappear
+Energy and Climate: New Infrastructure - Biosphere
+Health Care: Smart Wearables - Continuous Monitoring of Human Vitals and preventing Disease 
+                               Sending Medicines into body automatically and on time.
+Data-Driven Personal care: 24/7 AI Physicians
+Human Organ Manufacturing: Replace diseased organs with Synthetic Organs. Skin, Blood, etc.
+Gene Editing: Eliminate Inherent Diseases, Custom-made Drugs
+Agriculture: Precision Agriculture 
+             Plant by Plant care, Robotized weeding and insect targeting
+Vertical Farming: Hydroponics 
+Education: AI-Enhanced Education.
+
+
+21st Century 4.O Technology: 
+
+In General
+
+-Gene Editing
+-Manufacturing Human Organs
+-Additive Manufacturing
+-Autonomous Robots
+-Drones
+-Internet of Things (IoT)
+-Wearables ... and Many More
+
+From the perspective of S/W Engineer
+
+-AI/ML
+-Data Science
+-Cyber Security
+-Augmented Reality-AR
+-Virtual Reality-VR
+-Blockchain
+-Space Technologies and many more...
+
+-Quantum Computing
+-Gene Computing
+-Photon Computing and many more...
+
+Industry 5.O is future and already emerging trend
+
+Human Machine Interfaces : e.g.: Neural link
+
+WORLD WILL CHANGE MORE SO WE SHOULD GET EDUCATED AND UPDATED 
+
+=========================================================================================================
+
+Video - 4 : Why Companies Hire NXTWAVE Students: 
+------------------------------------------------
+Video - 5 : Coding to win Challenge : Learn Consistently 21 DAYS HABIT 
+=========================================================================================================
+
+Topic - 2 : Learning portal tour: 5 Videos 
+--------------------------------------------
+V-1: Learning portal walkthrough
+--------------------------------
+V-2: Clearing Doubts
+--------------------
+V-3: Access sessions in advanced learning portal
+------------------------------------------------ 
+V-4: Check daily Schedule
+-------------------------
+V-5: Clarify general doubts in mother tongue.
+---------------------------------------------
+
+=========================================================================================================
+
+Topic-3 : Intro to Full Stack : 2 Videos
+----------------------------------------
+Video-1: Intro to Frontend 
+--------------------------
+
+Application Development(App) :software developed for a specific purpose.
+To build such Applications, One Should be a Application Developer
+
+Application Developer 
+-Frontend Developer
+-Backend Developer
+-Full Stack Developer 
+
+Frontend Developer --- How Browsers see the website --- 
+Technologies : HTML, CSS , Java script, React JS, Flutter
+
+HTML- Hyper Text Markup Language --- Communicate with system to make a website
+                                     Hyper Text: Text containing Links
+                                     Markup: The Remarks That we Add to Highlight.
+Parsing and Rendering :
+Parsing: Understanding and Separating out the different Components in the document.
+Rendering: After parsing the browser, with the help of Operating System, Creates and Displays
+           What are we Supposed to see on the screen.
+CSS- Cascading Style Sheets adds Style to the websites. like fonts, colors, etc.
+
+JavaScript: > Can Change the contents of website dynamically without reloading the entire site.
+            > Adds interactive experiences to website. 
+            > Example: Amazon product changing when we change 256 GB to 512 GB   
+
+Mobile Apps: >Mobiles have different OS, So to develop app in mobile we use different languages.
+             >Android: JAVA , KOTLIN 
+             >IOS:OBJECTIVE-C , SWIFT
+
+Responsive Web Design: > Developing The website that is visible in all devices with different screen sizes.   
+                       > This way of development called Responsive Web Design.
+                       > To Develop for both Android and iOS(Reduce Development Time):
+
+CROSS PLATFORM: React Native(Developed by Facebook) and Flutter( Developed by Google ) 
+=========================================================================================================
+
+Video - 2 : Intro to Backend -
+----------------------------
+Data: Any information that has to be Stored.
+Space: Data has Size and Occupies Space.
+
+Units of Measurements: Data - Size
+> Space Occupied by data is measured in Bits or Bytes.
+> 1 Byte = 8 Bits
+> 1 KB   = 1024 bytes
+> 1 MB   = 1024 KB
+> 1 GB   = 1024 MB
+> 1 TB   = 1024 GB
+
+A website has terabytes of data. Where it is Stored ?
+How Data Updates happen in Websites ? Example: change in price
+
+The Only Answer is :  BACKEND
+
+Frontend ---> User See and Interact 
+Backend  ---> Other than what user see and interact
+
+
+Backend Database :
+
+Database makes it easy to deal with information(data).
+> Store 
+> Organize
+> Access
+> Updates, etc.
+
+Overview:
+
+       Receive request     Stores data in an organized manner
+  CLIENT ---------->   SERVER ----------->  DATABASE
+         <----------     |     <-----------
+       Sends Response    |   Retrieves required data stored  
+                         |
+                  |     Process Data             |
+
+                  |______________________________|
+
+                              |
+                           BACKEND
+
+
+> Backend is doing lot pf Functionality...
+
+How To Build It ?
+
+Backend Server: Languages : Python, GO, java, C#, PHP, JS, etc.
+Databases : MY SQL, Dynamo DB, Maria DB, Mongo DB, etc. 
+
+
+Bridge:
+
+> User Interface (UI): User interact with Software through User Interface(UI).
+> Application Programming Interface (API): Applications interact with each other through API.
+
+
+Backend                            Vs              Frontend :
+
+> Python, Java, MySQL, Maria DB           > HTML, CSS, React JS
+> Servers, APIs, Databases, etc.          > Images, Texts, Colors, Dropdowns, etc.
+> Customers CAN'T interact directly.      > Customers CAN interact directly.
+
+CLOUD:  > Refers to Servers that are accessed over internet. The software that run on those servers.
+
+Cloud Computing: > On-Demand availability of server system, of any size over the internet at the click of a button from our computer 
+                 > Affordable 
+                 > Scaling
+                 > Cloud Service Providers : Amazon Web Services (AWS), Google Cloud, Microsoft Azure, 
+                                             Alibaba Cloud & others...
+                 > Zero Risk - Service providers take care of Security, Maintenance, Purchasing Hardware
+                               Power and Internet Connection, Replacing faulty hardware.
+                 > So we need not worry about all those things; instead we can develop & focus on ouR Application.
+
+=========================================================================================================
+
+
+
+Build Your Own Static Website -
+------------------------------
+
+Topic 1 - Introduction to HTML & CSS - 5 Videos 
+-----------------------------------------------
+
+Video-1 : Your First Frontend Project | Getting Started
+-------------------------------------------------------
+
+Importance of Frontend:
+> Growing Demand
+> No big companies without a web app ; Netflix, FB, Insta, Amazon
+> Remote Jobs India ( Salary : 45 LPA and above)
+> React TOPS Hiring Trend : Responsive Websites ---> React JS ; Cross Platform ---> React Native
+
+Software Development Fundamentals:
+
+Browser & URL : 
+Browser : A browser is must to open any website. e.g. Chrome
+URL : Uniform Resource Locator (Address of the Website) e.g.   www.amazon.in
+
+Browsers: Browser will understand only HTML, CSS, Java Script (JS), etc.
+
+Syntax: Rules of a Language. Its a small part of program. Knowing Syntax doesn't mean we can do programming.
+
+Bug or Debugging: Bug -----> Debugging checklist -----> Debugging
+
+Bug: Undesired behaviour (Error)- The differences between expected and current behaviours.
+Debugging Checklist: Process of fixing the Bug.
+
+DEBUGGING SKILL IS VERY IMPORTANT AND USEFUL WHEN WE GO TO BIG COMPANIES. COMPANIES EVEN GIVE MORE IMPORTANCE.
+
+Tweaking the Code : Getting Insights into the Code
+> Making small changes in the code to understand the software behaviour.
+
+
+
+Frontend First Project 
+Static Website 
+
+
+Websites of MNCs- Applications:
+
+- Portfolio
+- Tourist Place Applications 
+- E-commerce Applications
+- Streaming Applications
+- Music Applications
+- Restaurant Applications
+
+Tools and Technologies:
+
+- HTML 
+- CSS
+- Amazon Web Services : S3, CloudFront, Route 53
+
+==================================================================================================================
+
+
+Video - 2: Introduction to HTML 
+
+Frontend Journey:
+Static Websites ---> HTML,CSS
+Responsive Websites ---> Bootstrap
+Dynamic Websites ---> JS, React JS
+Mobile Apps ---> React Native, Flutter
+
+
+Fundamental in Programming : Breaking Down into small parts.
+
+HTML Basic Structure - Syntax :
+
+<!DOCTYPE html>
+
+<html>
+
+<head> </head>
+
+<body>   
+      Your code goes here
+</body>
+
+</html>
+
+
+Adding Heading in HTML:
+
+HTML Element- Syntax:
+
+<tag> Content(Text) </tag>
+
+HTML Element - Main Heading:
+<body>
+    <h1> Tourism </h1>
+</body>
+
+
+Adding Paragraph in HTML:
+
+<p> Plan your Trip... </p>
+
+
+Adding Button in HTML:
+
+<button> Get Started </button>
+
+
+
+
+
+Adding Heading, Paragraph, Button in HTML:
+
+Full Code Practice :
+
+HTML:
+
+<!DOCTYPE html>
+
+<html>
+
+<head></head>
+
+  <body>
+
+    <h1> Tourism </h1>
+
+    <p> Plan your trip wherever you want to go </p>
+
+    <button> Get Started ... </button>
+
+  </body>
+
+</html>
+
+==================================================================================================================
+
+Video - 3: Introduction to CSS | Part 1
+
+Center the Heading, Paragraph, & Button Elements Horizontally 
+
+
+CSS-Cascading Style Sheets - Syntax:
+
+A CSS File will be created.
+It is a list of Rulesets.
+Each Ruleset looks like:      
+.selector {
+
+       property1: value1;
+       property2: value2;
+
+}
+
+Note: . is a syntax/rule to add before a selector.
+
+
+Combining HTML And CSS - Syntax:
+
+> With the Help of the Attribute, we can combine HTML and CSS.
+
+HTML Attribute:
+
+> Attributes provide additional information about the HTML element e.g. color, Text Size, shape, underlines,  etc.
+> In our present code go to center is the additional information.
+
+HTML Element and Attribute - Syntax:
+
+<tag> Content(Text) </tag>
+
+<tag attribute="value"> Content </tag>
+
+
+
+Attribute in Each Element- Syntax:
+
+<h1> Tourism </h1>
+
+<h1 class = "h-center"> Tourism </h1>
+      |         |
+
+syntax name    Attribute
+of attribute.  Value
+
+
+Now Writing HTML Attribute in every element takes time so ,
+How to apply for all at once ?
+
+Wrapping-Definition:
+
+Grouping all the required elements at one place.
+
+Container-Definition:
+
+To wrap all the elements at one place, we use container element.
+
+Container Element - div :
+
+<div> Other Elements </div>
+
+
+Adding DIV - HTML Element :
+
+<body>
+     <div>
+        <h1> __ </h1>
+        <p> ___ </p>
+        <button> ___ </button>
+
+     </div>
+</body>
+
+Note: Best Practice Indentation for Ease of Debugging.
+
+
+
+Syntax- Class Attribute 
+For All the Elements in The Container:
+
+<div class="h-center"> Content </div>
+
+
+
+Alignment Horizontal Center -
+
+
+Full Code Practice:
+
+
+HTML:
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+  <head></head>
+
+  <body>
+
+    <div class="h-center">
+
+      <h1> Tourism </h1>
+
+      <p> Plan your trip wherever you want to go ... </p>
+
+      <button> Get Started </button>
+
+       
+
+    </div>
+
+  </body>
+
+</html>
+
+
+NOTE: In VS Code we use :    <head> <link rel="stylesheet" href="style.css"> </head> To Link CSS and HTML Files.
+
+
+CSS:
+
+
+
+.h-center {
+
+  text-align: center;
+
+}
+
+
+==================================================================================================================
+
+Video - 4: Introduction to CSS | Part 2
+
+Styling a Button (Later)
+
+Let Add Color to the Text:
+
+HTML:
+
+<body>
+
+    <div>
+
+      <h1 class="main-heading"> Tourism </h1>  
+
+    </div>
+
+</body>
+
+> Here Attribute Name: Class & Attribute Value: main-heading
+
+CSS: 
+
+.main-heading {
+     color:blue;
+}
+
+> Note: Not colour ; syntax color
+
+
+Styling with HTML: 
+HTML:
+
+<body>
+
+    <div>
+
+      <h1 style="color:blue;"> Tourism </h1>  
+
+    </div>
+
+</body>
+
+> Note: This is not best Practice.
+
+
+Apply Color to Paragraph:
+
+Attribute Name - class
+Attribute Value - paragraph
+
+HTML:
+
+<body>
+
+    <div>
+
+      <p class="paragraph"> Plan your trip wherever you want to go ... </p>
+
+    </div>
+
+  </body>
+
+
+CSS:
+
+.paragraph {
+
+       color:gray;
+  }
+
+
+Let's Add a Background Color:
+
+CSS- Background Color - Syntax:
+
+
+CSS:
+
+.card {
+
+  background-color:lightblue;
+
+}
+
+
+Background color for container ( div ):
+
+HTML:
+
+<body>
+
+    <div class="card">
+
+      <h1>Tourism</h1>
+
+      <p>Plan your trip wherever you want to go ...</p>
+
+      <button> Get Started </button>
+
+    </div>
+
+</body>
+
+
+
+
+
+Adding Color to text and Background color for container(div) -
+
+
+Full Code Practice:
+
+HTML:
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+  <head></head>
+
+  <body>
+
+    <div class="card">
+
+      <h1 class="main-heading">Tourism</h1>
+
+      <p class="paragraph">Plan your trip wherever you want to go ...</p>
+
+    </div>
+
+  </body>
+
+</html>
+
+
+
+CSS:
+
+
+
+.main-heading {
+
+  color:blue;
+
+}
+
+
+
+.paragraph {
+
+  color:grey;
+
+}
+
+
+
+.card {
+
+  background-color:lightblue;
+
+}
+
+======================================= WEEK-1 COMPLETED =========================================================
+
+
+
+
+
+                          
